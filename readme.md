@@ -1,6 +1,6 @@
 # Hello! 
 
-👋🏼 My name is Eunice Soh. I'm open for work from Aug 2021 upon graduation from a masters research programme at the National University of Singapore. 
+👋🏼 I'm Eunice & am open for work from Aug 2021 upon graduation from a masters research programme at the National University of Singapore. 
 
 **I've some knowledge or experience in:**
 💼 Data analysis using R & Python
@@ -9,16 +9,22 @@
 💼 Android development using Java (Android Studio)
 💼 Google Cloud Platform
 
+
+<img src="img/ico-r.png" alt="" height="40"/>
+<img src="img/ico-python.png" alt="" height="40"/>
+<img src="img/ico-java.png" alt="" height="40"/>
+<img src="img/ico-react.png" alt="" height="40"/>
+
 **I'm certified with:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
 
 
 <a href="https://www.credential.net/profile/eunicesoh237176/wallet">
-    <img src="img/cert-ai.png" alt="" height="80"/>
+    <img src="img/cert-ai.png" alt="" height="40"/>
 </a>
 
 <a href="https://www.credential.net/profile/eunicesoh237176/wallet">
-    <img src="img/cert-gcp.png" alt="" height="80"/>
+    <img src="img/cert-gcp.png" alt="" height="40"/>
 </a>
 
 **How to reach me:** 🌿 Contact - eunice.sjy (at) gmail (dot) com 
