@@ -36,7 +36,6 @@
 
 **How to reach me:** 🌿 Contact - eunice.sjy (at) gmail (dot) com 
 🌿 CV & Portfolio - https://eunices.github.io/
-🌿 LinkedIn - https://www.linkedin.com/in/eunicesoh/
 
 <a href="https://www.linkedin.com/in/eunicesoh/">
     <img src="img/ico-linkedin.png" alt="" height="40"/>
