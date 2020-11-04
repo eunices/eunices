@@ -26,8 +26,8 @@
 🌿 LinkedIn - https://www.linkedin.com/in/eunicesoh/
 
 <a href="https://www.linkedin.com/in/eunicesoh/">
-    <img src="img/ico-linkedin.png" alt="" height="50"/>
+    <img src="img/ico-linkedin.png" alt="" height="40"/>
 </a>
 <a href="https://github.com/eunices">
-    <img src="img/ico-github.png" alt="" height="50"/>
+    <img src="img/ico-github.png" alt="" height="40"/>
 </a>
