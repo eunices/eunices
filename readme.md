@@ -7,7 +7,7 @@
 💼 Machine learning end-to-end products using Python
 💼 Full stack development using Javascript (Mongodb Express React Node)
 💼 Android development using Java (Android Studio)
-💼 Google Cloud Platform (including Docker/Kubernetes/networking/devops)
+💼 Google Cloud Platform (a little Docker/ Kubernetes/ devops/ networking)
 
 <a href="https://eunices.github.io/portfolio/portfolio-1/">
     <img src="img/ico-r.png" alt="" height="40"/>
