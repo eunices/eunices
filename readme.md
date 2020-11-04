@@ -11,8 +11,8 @@
 
 <a><img src="img/ico-r.png" alt="" height="40"/></a>
 <a><img src="img/ico-python.png" alt="" height="40"/></a>
-<a><img src="img/ico-java.png" alt="" height="40"/></a>
 <a><img src="img/ico-react.png" alt="" height="40"/></a>
+<a><img src="img/ico-java.png" alt="" height="40"/></a>
 
 **I'm certified with:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
