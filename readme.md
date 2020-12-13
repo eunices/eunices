@@ -1,3 +1,5 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 # Hello! 
 
 👋🏼 I'm Eunice & am open for work from Aug 2021 upon graduation from a masters research programme at the National University of Singapore. 
