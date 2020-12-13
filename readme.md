@@ -46,3 +46,5 @@
 <a href="https://github.com/eunices">
     <img src="img/ico-github.png" alt="" height="40"/>
 </a>
+
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="eunicesoh"><a class="LI-simple-link" href='https://sg.linkedin.com/in/eunicesoh?trk=profile-badge'>Eunice J.Y. Soh 🌻</a></div>
