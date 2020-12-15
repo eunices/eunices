@@ -1,5 +1,3 @@
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-
 # Hello! 
 
 👋🏼 I'm Eunice & am open for work from Aug 2021 upon graduation from a masters research programme at the National University of Singapore. 
@@ -49,4 +47,3 @@
     <img src="img/ico-github.png" alt="" height="40"/>
 </a>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="eunicesoh"><a class="LI-simple-link" href='https://sg.linkedin.com/in/eunicesoh?trk=profile-badge'>Eunice J.Y. Soh 🌻</a></div>
