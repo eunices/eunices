@@ -1,9 +1,8 @@
 # Hello! 
 
-👋🏼 I'm Eunice & am open for work from Aug 2021 upon graduation from a masters research programme at the National University of Singapore. 
+👋🏼 I'm Eunice. I use R and Python to conduct data analysis.
 
-**I've some knowledge or experience in:**
-💼 Data analysis using R & Python
+**I've some working knowledge in:**
 💼 Machine learning end-to-end products using Python
 💼 Full stack development using Javascript (Mongodb Express React Node)
 💼 Android development using Java (Android Studio)
