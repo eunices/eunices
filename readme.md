@@ -24,7 +24,7 @@
     <img src="img/ico-docker.png" alt="" height="40"/>
 </a>
 
-**I'm certified with:** 🌍 Google Cloud certified Associate Cloud Engineer
+**Participated in:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
 
 
@@ -34,15 +34,5 @@
 
 <a href="https://www.credential.net/profile/eunicesoh237176/wallet">
     <img src="img/cert-gcp.png" alt="" height="40"/>
-</a>
-
-**How to reach me:** 🌿 Contact - eunice.sjy (at) gmail (dot) com 
-🌿 CV & Portfolio - https://eunices.github.io/
-
-<a href="https://www.linkedin.com/in/eunicesoh/">
-    <img src="img/ico-linkedin.png" alt="" height="40"/>
-</a>
-<a href="https://github.com/eunices">
-    <img src="img/ico-github.png" alt="" height="40"/>
 </a>
 
