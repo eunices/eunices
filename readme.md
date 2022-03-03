@@ -1,6 +1,6 @@
 # Hello! 
 
-👋🏼 I'm Eunice. I use R and Python to conduct data analysis.
+👋🏼 I'm Eunice & I studied biology. I use R and Python to conduct data analysis.
 
 **I've some working knowledge/ experience in:**
 💼 Machine learning end-to-end products using Python
