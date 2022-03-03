@@ -1,7 +1,7 @@
 # Hello! 
 
-👋🏼 I'm Eunice & I studied biology. 
-Cancel changes
+👋🏼 I'm Eunice & I studied biology. <br><br>
+
 **I've some working knowledge on:**<br>
 💼 Software development lifecycle & Git/Github<br>
 💼 R and Python to conduct data analysis<br>
