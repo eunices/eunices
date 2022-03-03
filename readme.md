@@ -26,6 +26,7 @@
     <img src="img/ico-docker.png" alt="" height="40"/>
 </a>
 <br><br>
+---
 **Participated in:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
 
