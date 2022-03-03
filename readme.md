@@ -2,7 +2,7 @@
 
 👋🏼 I'm Eunice & I studied biology. I use R and Python to conduct data analysis.
 
-**I've some working knowledge/ experience in:**
+**I've some working knowledge:**
 💼 Machine learning end-to-end products using Python
 💼 Full stack development using Javascript (Mongodb Express React Node)
 💼 Android development using Java (Android Studio)
