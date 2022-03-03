@@ -27,7 +27,7 @@
 </a>
 
 
-**Participated in:** 🌍 Google Cloud certified Associate Cloud Engineer
+**Previously certified in:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
 
 
