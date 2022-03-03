@@ -1,12 +1,14 @@
 # Hello! 
 
-👋🏼 I'm Eunice & I studied biology. I use R and Python to conduct data analysis.
+👋🏼 I'm Eunice & I studied biology. 
 
-**I've some working knowledge:**
-💼 Machine learning end-to-end products using Python
-💼 Full stack development using Javascript (Mongodb Express React Node)
-💼 Android development using Java (Android Studio)
-💼 Google Cloud Platform with a little Docker/ Kubernetes/ devops/ networking
+**I've some working knowledge on:**
+💼 Software development lifecycle & Git/Github<br>
+💼 R and Python to conduct data analysis<br>
+💼 Machine learning end-to-end products using Python<br>
+💼 Full stack development using Javascript (Mongodb Express React Node)<br>
+💼 Android development using Java (Android Studio)<br>
+💼 Google Cloud Platform with a little Docker/ Kubernetes/ devops/ networking<br><br>
 
 <a href="https://eunices.github.io/portfolio/portfolio-1/">
     <img src="img/ico-r.png" alt="" height="40"/>
