@@ -1,8 +1,8 @@
 # Hello! 
 
 👋🏼 I'm Eunice & I studied biology. 
-
-**I've some working knowledge on:**
+Cancel changes
+**I've some working knowledge on:**<br>
 💼 Software development lifecycle & Git/Github<br>
 💼 R and Python to conduct data analysis<br>
 💼 Machine learning end-to-end products using Python<br>
