@@ -10,12 +10,13 @@
 💼 Android development using Java (Android Studio)<br>
 💼 Google Cloud Platform with a little Docker/ Kubernetes/ devops/ networking<br>
 
-<img src="img/ico-r.png" alt="" height="40"/>
-<img src="img/ico-python.png" alt="" height="40"/>
-<img src="img/ico-react.png" alt="" height="40"/>
-<img src="img/ico-java.png" alt="" height="40"/>
-<img src="img/ico-docker.png" alt="" height="40"/>
-
+<p>
+    <img src="img/ico-r.png" alt="" height="40"/>
+    <img src="img/ico-python.png" alt="" height="40"/>
+    <img src="img/ico-react.png" alt="" height="40"/>
+    <img src="img/ico-java.png" alt="" height="40"/>
+    <img src="img/ico-docker.png" alt="" height="40"/>
+</p>
 
 **Previously certified in:** 🌍 Google Cloud certified Associate Cloud Engineer
 🌍 AI Singapore AI Certified Engineer
