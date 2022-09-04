@@ -6,15 +6,6 @@
 💼 Software development lifecycle & Git/Github<br>
 💼 R and Python to conduct data analysis<br>
 
-**Previously certified in:** 🌍 Google Cloud certified Associate Cloud Engineer
-🌍 AI Singapore AI Certified Engineer
-
-
-<a href="https://www.credential.net/profile/eunicesoh237176/wallet">
-    <img src="img/cert-ai.png" alt="" height="40"/>
-</a>
-
-<a href="https://www.credential.net/profile/eunicesoh237176/wallet">
-    <img src="img/cert-gcp.png" alt="" height="40"/>
-</a>
+**Previously certified in:** 🌍 <a href="https://www.credential.net/profile/eunicesoh237176/wallet">Google Cloud certified Associate Cloud Engineer</a>
+🌍 <a href="https://www.credential.net/profile/eunicesoh237176/wallet">AI Singapore AI Certified Engineer</a>
 
